@@ -1,2 +1,0 @@
-# AdvancedBootstraphomework
-Created with CodeSandbox
